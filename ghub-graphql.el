@@ -138,7 +138,7 @@ behave as for `ghub-request' (which see)."
                      closedAt
                      mergedAt
                      locked
-                     maintainerCanModify
+                     ;maintainerCanModify
                      isCrossRepository
                      (milestone id)
                      body
